@@ -1,4 +1,4 @@
-name: Deploy to AWS as smart
+name: Deploy to AWS as pro
 on:
   push:
     branches: [main]
